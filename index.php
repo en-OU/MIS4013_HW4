@@ -3,7 +3,7 @@ $pageTitle = "Home";
 ?>
 <?php
 $pageTitle = "Home";
-include "view-header.php";
+include "header.php";
 ?>
 
 <span style="color: violet; font-size: 20px; display: inline-block;">Home</span>
